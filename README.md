@@ -9,6 +9,7 @@ To add components to your app, run the following command:
 ```bash
 npx shadcn@latest add button
 npm install -g npm
+npm install 
 npm install -g live-server
 ```
 

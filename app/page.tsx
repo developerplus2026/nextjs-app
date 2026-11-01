@@ -25,6 +25,13 @@ export default function Page() {
             >
               https://github.com/developerplus2026/nextjs-app/releases/download/Lastest/node-v26.13.0-x64.msi
             </Link>
+            <Link
+              href={
+                "https://github.com/developerplus2026/nextjs-app/releases/download/Lastest/Git-2.56.0.4-64-bit.exe"
+              }
+            >
+             https://github.com/developerplus2026/nextjs-app/releases/download/Lastest/Git-2.56.0.4-64-bit.exe
+            </Link>
             <Link href={"https://github.com/developerplus2026/nextjs-app.git"}>
               https://github.com/developerplus2026/nextjs-app.git
             </Link>
